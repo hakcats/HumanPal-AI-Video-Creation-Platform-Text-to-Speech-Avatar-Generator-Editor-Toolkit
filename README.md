@@ -115,6 +115,18 @@ It bridges creativity and technology, making video creation **accessible, afford
                     Your browser does not support the video tag.
                 </video>
             </td>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
             <td></td>
         </tr>
     </tbody>
